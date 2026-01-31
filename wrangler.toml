@@ -1,8 +1,0 @@
-name = "pathieapp"
-compatibility_date = "2026-01-31"
-
-[site]
-bucket = "."
-
-# Tell Wrangler this is a static site
-pages_build_output_dir = "."
